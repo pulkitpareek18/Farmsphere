@@ -124,6 +124,24 @@ const AboutContent: React.FC = () => {
           ))}
         </div>
 
+        <AnimatedCard delay={700}>
+          <div className="bg-white p-8 rounded-xl shadow-md max-w-3xl mx-auto mb-20">
+            <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 text-center">
+              Message from our Director
+            </h2>
+            <p className="text-graphite text-lg italic mb-4 text-center">
+              "I want to be part of a transformation where farming is not just a means of survival, but a source of pride."
+            </p>
+            <p className="text-graphite text-lg mb-4 text-center">
+              The words of Dr. A.P.J. Abdul Kalam taught me to dream - and Farmsphere was born from that dream.
+            </p>
+            <p className="text-graphite text-lg mb-4 text-center">
+              I truly believe that real progress is incomplete until we improve the lives of our farmers. Every plant we grow is not just food, but a seed of hope. Every step at Farmsphere is dedicated to turning that hope into reality - building a future where both farming and wellness are treated with the respect they deserve.
+            </p>
+            <p className="text-charcoal font-semibold text-right mt-6">— Akash Gupta, Director</p>
+          </div>
+        </AnimatedCard>
+
         <AnimatedCard delay={800}>
           <div className="bg-soft-mint/30 p-8 rounded-xl">
             <h2 className="font-heading text-3xl font-semibold text-forest-green mb-6 text-center">

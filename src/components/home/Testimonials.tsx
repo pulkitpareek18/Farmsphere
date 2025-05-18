@@ -27,28 +27,40 @@ const Testimonial: React.FC<TestimonialProps> = ({ quote, author, position, comp
 const Testimonials: React.FC = () => {
   const testimonials = [
     {
-      quote: "Farmsphere's hydroponics system has completely transformed our small urban farm. We're now producing twice as much with less than half the resources.",
-      author: "Sarah Johnson",
-      position: "Founder",
-      company: "Urban Greens Co-op"
+      quote: "Farmsphere's hydroponics system has brought a green revolution to our village. We now grow fresh vegetables year-round, even in the harsh summers of Rajasthan.",
+      author: "Ramesh Choudhary",
+      position: "Farmer",
+      company: "Jodhpur Hydro Farms, Rajasthan"
     },
     {
-      quote: "As a restaurant owner committed to farm-to-table dining, Farmsphere has allowed us to grow our own produce year-round with exceptional quality and taste.",
-      author: "Michael Chen",
-      position: "Executive Chef",
-      company: "Harvest Table Restaurant"
+      quote: "Thanks to Farmsphere, our students in Lucknow are learning about modern agriculture hands-on. It's inspiring to see their excitement for sustainable farming!",
+      author: "Sunita Verma",
+      position: "School Principal",
+      company: "Green Valley School, Uttar Pradesh"
     },
     {
-      quote: "The technical support from Farmsphere has been outstanding. Their team helped us scale our operation from a small pilot to a commercial-size facility.",
-      author: "David Rodriguez",
-      position: "Operations Manager",
-      company: "Vertical Farms Inc."
+      quote: "With Farmsphere's technology, our water usage has dropped and our yields have increased. It's a game changer for farmers in Rajasthan.",
+      author: "Mahesh Singh",
+      position: "Farm Owner",
+      company: "Desert Bloom Farms, Rajasthan"
     },
     {
-      quote: "We've reduced our water usage by 90% while increasing yields by 40% since implementing Farmsphere's hydroponics technology. The ROI has been impressive.",
-      author: "Lisa Thompson",
-      position: "Sustainability Director",
-      company: "Green Future Farms"
+      quote: "We supply fresh, pesticide-free greens to Agra's markets, all thanks to hydroponics. Farmsphere's support has been excellent.",
+      author: "Priya Sharma",
+      position: "Agripreneur",
+      company: "Agra Fresh Farms, Uttar Pradesh"
+    },
+    {
+      quote: "Our rooftop farm in Jaipur is thriving with Farmsphere's system. It's easy to use and perfect for urban spaces.",
+      author: "Anil Meena",
+      position: "Urban Farmer",
+      company: "Jaipur Rooftop Greens, Rajasthan"
+    },
+    {
+      quote: "Hydroponics has opened new opportunities for women farmers in our community. We are grateful for Farmsphere's training and guidance.",
+      author: "Kavita Yadav",
+      position: "Women Farmer Leader",
+      company: "Kanpur Green Collective, Uttar Pradesh"
     }
   ];
 

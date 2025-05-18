@@ -13,7 +13,7 @@ const ContactInfo: React.FC = () => {
           <div>
             <h3 className="font-medium mb-1">Address</h3>
             <p className="text-white/80">
-              BK Birla Insititute of Engineering & Technology, Pilani<br />
+              B K Birla Insititute of Engineering & Technology, Pilani<br />
               333031, Jhunjhunu Rajasthan<br />
               India
             </p>
@@ -25,7 +25,7 @@ const ContactInfo: React.FC = () => {
           <div>
             <h3 className="font-medium mb-1">Phone</h3>
             <p className="text-white/80">
-              (555) 123-4567
+              +91 7459805391
             </p>
           </div>
         </div>
@@ -35,7 +35,7 @@ const ContactInfo: React.FC = () => {
           <div>
             <h3 className="font-medium mb-1">Email</h3>
             <p className="text-white/80">
-              info@farmsphere.com
+              farmsphereinnvoations@gmail.com
             </p>
           </div>
         </div>
@@ -45,8 +45,8 @@ const ContactInfo: React.FC = () => {
           <div>
             <h3 className="font-medium mb-1">Hours</h3>
             <p className="text-white/80">
-              Monday - Friday: 9:00 AM - 5:00 PM PST<br />
-              Saturday: 10:00 AM - 2:00 PM PST<br />
+              Monday - Friday: 9:00 AM - 5:00 PM IST<br />
+              Saturday: 10:00 AM - 2:00 PM IST<br />
               Sunday: Closed
             </p>
           </div>

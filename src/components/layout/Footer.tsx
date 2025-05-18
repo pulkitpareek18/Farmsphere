@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Leaf, Facebook, Twitter, Instagram, Linkedin, Mail, MapPin, Phone } from 'lucide-react';
+import { Instagram, Linkedin, Mail, MapPin, Phone } from 'lucide-react';
 
 const Footer: React.FC = () => {
   return (
@@ -10,19 +10,13 @@ const Footer: React.FC = () => {
           {/* Company Info */}
           <div>
             <div className="flex items-center mb-4">
-              <Leaf className="h-8 w-8 text-lime-green" />
+              <img src="/logo.svg" alt="Farmsphere Logo" className="h-12 w-12" />
               <span className="ml-2 font-heading font-bold text-xl">FARMSPHERE</span>
             </div>
             <p className="text-cool-gray mb-4">
               Revolutionizing agriculture through innovative hydroponics technology for a sustainable future.
             </p>
             <div className="flex space-x-4">
-              <a href="https://www.facebook.com/" className="text-cool-gray hover:text-sky-blue transition-colors duration-200" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
-                <Facebook size={20} />
-              </a>
-              <a href="https://twitter.com/" className="text-cool-gray hover:text-sky-blue transition-colors duration-200" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
-                <Twitter size={20} />
-              </a>
               <a href="https://www.instagram.com/farmsphereinnovations/" className="text-cool-gray hover:text-sky-blue transition-colors duration-200" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
                 <Instagram size={20} />
               </a>
@@ -98,15 +92,15 @@ const Footer: React.FC = () => {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 text-lime-green mr-2 mt-0.5" />
-                <span className="text-cool-gray">BK Birla Insititute of Engineering & Technology, Pilani, 333031, Jhunjhunu Rajasthan, India</span>
+                <span className="text-cool-gray">B K Birla Insititute of Engineering & Technology, Pilani, 333031, Jhunjhunu Rajasthan, India</span>
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 text-lime-green mr-2" />
-                <span className="text-cool-gray">(555) 123-4567</span>
+                <span className="text-cool-gray">+91 7459805391</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-lime-green mr-2" />
-                <span className="text-cool-gray">info@farmsphere.com</span>
+                <span className="text-cool-gray">farmsphereinnvoations@gmail.com</span>
               </li>
             </ul>
           </div>

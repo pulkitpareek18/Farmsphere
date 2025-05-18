@@ -26,7 +26,7 @@ const TeamMember: React.FC<TeamMemberProps> = ({
       <img
         src={image}
         alt={name}
-        className="w-full h-64 object-cover object-center"
+        className="mx-auto w-48 h-auto object-contain object-center bg-gray-100 rounded-lg"
       />
       <div className="p-6">
         <h3 className="font-heading font-semibold text-xl text-charcoal mb-1">{name}</h3>
@@ -64,75 +64,36 @@ const TeamMember: React.FC<TeamMemberProps> = ({
 const TeamContent: React.FC = () => {
   const teamMembers = [
     {
-      name: "Dr. James Chen",
-      role: "Co-Founder & CEO",
-      image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "With a Ph.D. in Agricultural Engineering, James combines technical expertise with a passion for sustainable food systems.",
-      linkedin: "#",
-      twitter: "#",
+      name: "Akash Gupta",
+      role: "Founder & CEO",
+      image: "/akashgupta.jpg",
+      bio: "Visionary founder with a passion for sustainable agriculture and innovative hydroponics solutions.",
+      linkedin: "https://www.linkedin.com/in/akash-gupta-96bb48261/",
       delay: 100
     },
     {
-      name: "Maria Rodriguez",
+      name: "Navaditya Singh Rana",
       role: "Co-Founder & CTO",
-      image: "https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "A pioneer in hydroponics system design with over 15 years of experience in agricultural technology innovation.",
-      linkedin: "#",
-      twitter: "#",
+      image: "/navaditya.jpg",
+      bio: "Co-founder and technology leader, driving the development of advanced hydroponics systems.",
+      linkedin: "https://www.linkedin.com/in/navaditya-singh-rana-853b3a324/",
       delay: 200
     },
     {
-      name: "Dr. Sarah Johnson",
-      role: "Plant Science Director",
-      image: "https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "Leading our research team in optimizing plant nutrition and growth conditions for various crop varieties.",
-      linkedin: "#",
+      name: "Tanya Gupta",
+      role: "Research Head",
+      image: "/tanya.jpg",
+      bio: "Heads research initiatives, ensuring scientific rigor and innovation in all projects.",
+      linkedin: "https://www.linkedin.com/in/tanya-gupta-365612284/",
       delay: 300
     },
     {
-      name: "Michael Thompson",
-      role: "Engineering Lead",
-      image: "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "Designs innovative hydroponics systems that maximize efficiency and minimize environmental impact.",
-      linkedin: "#",
+      name: "Ambika Swargiary",
+      role: "Research Analyst",
+      image: "/ambika.jpeg.jpg",
+      bio: "Research analyst dedicated to data-driven insights and sustainable agricultural practices.",
+      linkedin: "https://www.linkedin.com/in/ambika-swargiary-8710ab362/",
       delay: 400
-    },
-    {
-      name: "Jennifer Parker",
-      role: "Customer Success Manager",
-      image: "https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "Ensures our clients achieve optimal results with their hydroponics systems through training and support.",
-      linkedin: "#",
-      twitter: "#",
-      delay: 500
-    },
-    {
-      name: "David Lee",
-      role: "Sustainability Officer",
-      image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "Oversees our environmental initiatives and ensures our practices align with our sustainability goals.",
-      linkedin: "#",
-      delay: 600
-    }
-  ];
-
-  const advisors = [
-    {
-      name: "Dr. Emily Wong",
-      role: "Agricultural Economics Advisor",
-      image: "https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "Professor of Agricultural Economics specializing in sustainable farming business models.",
-      linkedin: "#",
-      delay: 700
-    },
-    {
-      name: "Robert Garcia",
-      role: "Sustainable Agriculture Advisor",
-      image: "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "Former Director of Agricultural Innovation at the Global Sustainability Institute.",
-      linkedin: "#",
-      twitter: "#",
-      delay: 800
     }
   ];
 
@@ -159,34 +120,7 @@ const TeamContent: React.FC = () => {
               image={member.image}
               bio={member.bio}
               linkedin={member.linkedin}
-              twitter={member.twitter}
               delay={member.delay}
-            />
-          ))}
-        </div>
-
-        <AnimatedCard className="mb-16">
-          <div className="text-center">
-            <h2 className="font-heading text-3xl font-semibold text-forest-green mb-6">
-              Our Advisory Board
-            </h2>
-            <p className="text-graphite mb-8 max-w-3xl mx-auto">
-              Industry experts who provide strategic guidance to help Farmsphere achieve its mission.
-            </p>
-          </div>
-        </AnimatedCard>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          {advisors.map((advisor, index) => (
-            <TeamMember
-              key={index}
-              name={advisor.name}
-              role={advisor.role}
-              image={advisor.image}
-              bio={advisor.bio}
-              linkedin={advisor.linkedin}
-              twitter={advisor.twitter}
-              delay={advisor.delay}
             />
           ))}
         </div>

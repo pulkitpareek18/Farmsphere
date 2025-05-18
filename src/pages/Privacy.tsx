@@ -68,12 +68,12 @@ const Privacy: React.FC = () => {
             <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the "Last Updated" date.</p>
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">8. Contact Us</h2>
-            <p>If you have any questions about this Privacy Policy, please contact us at:</p>
-            <p>Farmsphere Innovations<br />
-            123 Eco Way<br />
-            Green Valley, CA 94123<br />
-            Email: privacy@farmsphere.com<br />
-            Phone: (555) 123-4567</p>
+            <p>For any questions or concerns regarding this Privacy Policy, you may contact us at:</p>
+            <p><strong>Farmsphere Innovations</strong><br />
+            B K Birla Insititute of Engineering & Technology, Pilani<br />
+            333031, Jhunjhunu Rajasthan, India<br />
+            Phone: +91 7459805391<br />
+            Email: farmsphereinnvoations@gmail.com</p>
           </div>
         </div>
       </div>

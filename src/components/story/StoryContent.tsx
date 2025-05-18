@@ -27,10 +27,10 @@ const StoryContent: React.FC = () => {
             <AnimatedCard delay={200}>
               <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4">The Beginning</h2>
               <p className="text-graphite mb-4">
-                Farmsphere Innovations began in 2018 when our founders, Dr. James Chen and Maria Rodriguez, recognized the growing challenges facing traditional agriculture: water scarcity, climate change, and the need to feed a growing global population.
+                Farmsphere was founded by Akash Gupta in 2024. As an engineer, Akash was inspired to address the challenges facing modern agriculture and envisioned a future where technology and sustainability go hand in hand.
               </p>
               <p className="text-graphite">
-                With backgrounds in agricultural science and engineering, they set out to develop sustainable farming solutions that could produce more food with fewer resources.
+                Driven by a passion for innovation and a commitment to empowering farmers, he set out to create solutions that make farming more efficient, sustainable, and rewarding for everyone involved.
               </p>
             </AnimatedCard>
           </div>
@@ -48,10 +48,10 @@ const StoryContent: React.FC = () => {
             <AnimatedCard delay={400} className="order-2 md:order-1">
               <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4">Evolution & Growth</h2>
               <p className="text-graphite mb-4">
-                From our first prototype developed in a small warehouse, Farmsphere has grown into a leader in hydroponics technology. Our first commercial system, launched in 2019, helped urban farmers grow leafy greens with 90% less water than traditional methods.
+                Since its inception, Farmsphere has rapidly evolved from a single visionary's dream into a thriving community of innovators and growers. Our journey has been marked by continuous learning, hands-on experimentation, and a relentless pursuit of better solutions for farmers everywhere.
               </p>
               <p className="text-graphite">
-                By 2021, we expanded into vertical farming solutions for larger operations, and today, our systems are used by farmers, restaurants, and educational institutions across North America and Europe.
+                By collaborating with experts and listening to the needs of real farmers, we have developed systems that are not only technologically advanced but also practical and accessible. Our growth is a testament to the power of shared vision and collective effort.
               </p>
             </AnimatedCard>
             <AnimatedCard delay={500} className="order-1 md:order-2">
@@ -67,10 +67,10 @@ const StoryContent: React.FC = () => {
             <div className="text-center mb-16">
               <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4">Where We Are Today</h2>
               <p className="text-graphite mb-4">
-                Farmsphere now employs a team of 50 agricultural scientists, engineers, and sustainability experts dedicated to advancing hydroponics technology. Our headquarters in Green Valley, California includes a research facility and demonstration farm where we test new innovations and host educational tours.
+                Today, Farmsphere stands as a beacon of innovation in sustainable agriculture. Our dedicated team works tirelessly to push the boundaries of what is possible in hydroponics and smart farming, always with the goal of making a positive impact on farmers' lives and the environment.
               </p>
               <p className="text-graphite">
-                We've been recognized with multiple awards for innovation in sustainable agriculture, including the 2023 Green Tech Award and the Future of Farming Innovation Prize.
+                With a growing network of partners and supporters, we continue to expand our reach, bringing modern farming solutions to communities across the globe and inspiring the next generation of agricultural leaders.
               </p>
             </div>
           </AnimatedCard>
