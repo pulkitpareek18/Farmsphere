@@ -81,7 +81,7 @@ const TeamContent: React.FC = () => {
     },
     {
       name: "Tanya Gupta",
-      role: "Research Head",
+      role: "Co-Founder & Research Head",
       image: "/tanya.jpg",
       bio: "Heads research initiatives, ensuring scientific rigor and innovation in all projects.",
       linkedin: "https://www.linkedin.com/in/tanya-gupta-365612284/",
@@ -94,6 +94,22 @@ const TeamContent: React.FC = () => {
       bio: "Research analyst dedicated to data-driven insights and sustainable agricultural practices.",
       linkedin: "https://www.linkedin.com/in/ambika-swargiary-8710ab362/",
       delay: 400
+    },
+    {
+      name: "Rahul Sangwan",
+      role: "Project Head",
+      image: "/rahulsangwan.jpg",
+      bio: "Project head focused on delivering innovative hydroponics solutions and managing cross-functional teams.",
+      linkedin: "https://www.linkedin.com/in/rahul-sangwan-0b8995282/",
+      delay: 500
+    },
+    {
+      name: "Pranav Singh",
+      role: "Video Editor & Animations",
+      image: "/pranav.jpg",
+      bio: "Creative video editor specializing in animations and visual storytelling.",
+      linkedin: "https://www.linkedin.com/in/pranav-singh-350974301/",
+      delay: 600
     }
   ];
 

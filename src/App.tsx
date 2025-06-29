@@ -7,6 +7,7 @@ import Story from './pages/Story';
 import About from './pages/About';
 import Team from './pages/Team';
 import Connect from './pages/Connect';
+import Events from './pages/Events';
 import Privacy from './pages/Privacy';
 import Terms from './pages/Terms';
 import CookiePolicy from './pages/CookiePolicy';
@@ -33,6 +34,7 @@ function App() {
           <Route path="/story" element={<Story />} />
           <Route path="/about" element={<About />} />
           <Route path="/team" element={<Team />} />
+          <Route path="/events" element={<Events />} />
           <Route path="/connect" element={<Connect />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/terms" element={<Terms />} />
