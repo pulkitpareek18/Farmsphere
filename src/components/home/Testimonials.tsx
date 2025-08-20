@@ -27,37 +27,37 @@ const Testimonial: React.FC<TestimonialProps> = ({ quote, author, position, comp
 const Testimonials: React.FC = () => {
   const testimonials = [
     {
-      quote: "Farmsphere's hydroponics system has brought a green revolution to our village. We now grow fresh vegetables year-round, even in the harsh summers of Rajasthan.",
+      quote: "Farmspherica's hydroponics system has brought a green revolution to our village. We now grow fresh vegetables year-round, even in the harsh summers of Rajasthan.",
       author: "Ramesh Choudhary",
       position: "Farmer",
       company: "Jodhpur Hydro Farms, Rajasthan"
     },
     {
-      quote: "Thanks to Farmsphere, our students in Lucknow are learning about modern agriculture hands-on. It's inspiring to see their excitement for sustainable farming!",
+      quote: "Thanks to Farmspherica, our students in Lucknow are learning about modern agriculture hands-on. It's inspiring to see their excitement for sustainable farming!",
       author: "Sunita Verma",
       position: "School Principal",
       company: "Green Valley School, Uttar Pradesh"
     },
     {
-      quote: "With Farmsphere's technology, our water usage has dropped and our yields have increased. It's a game changer for farmers in Rajasthan.",
+      quote: "With Farmspherica's technology, our water usage has dropped and our yields have increased. It's a game changer for farmers in Rajasthan.",
       author: "Mahesh Singh",
       position: "Farm Owner",
       company: "Desert Bloom Farms, Rajasthan"
     },
     {
-      quote: "We supply fresh, pesticide-free greens to Agra's markets, all thanks to hydroponics. Farmsphere's support has been excellent.",
+      quote: "We supply fresh, pesticide-free greens to Agra's markets, all thanks to hydroponics. Farmspherica's support has been excellent.",
       author: "Priya Sharma",
       position: "Agripreneur",
       company: "Agra Fresh Farms, Uttar Pradesh"
     },
     {
-      quote: "Our rooftop farm in Jaipur is thriving with Farmsphere's system. It's easy to use and perfect for urban spaces.",
+      quote: "Our rooftop farm in Jaipur is thriving with Farmspherica's system. It's easy to use and perfect for urban spaces.",
       author: "Anil Meena",
       position: "Urban Farmer",
       company: "Jaipur Rooftop Greens, Rajasthan"
     },
     {
-      quote: "Hydroponics has opened new opportunities for women farmers in our community. We are grateful for Farmsphere's training and guidance.",
+      quote: "Hydroponics has opened new opportunities for women farmers in our community. We are grateful for Farmspherica's training and guidance.",
       author: "Kavita Yadav",
       position: "Women Farmer Leader",
       company: "Kanpur Green Collective, Uttar Pradesh"

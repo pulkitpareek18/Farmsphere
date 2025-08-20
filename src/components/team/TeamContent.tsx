@@ -110,6 +110,14 @@ const TeamContent: React.FC = () => {
       bio: "Creative video editor specializing in animations and visual storytelling.",
       linkedin: "https://www.linkedin.com/in/pranav-singh-350974301/",
       delay: 600
+    },
+     {
+      name: "Sunil Rajpurohit",
+      role: "Content Creator",
+      image: "/sunil.jpeg",
+      bio: "Creative content creator specializing in visual storytelling and digital marketing.",
+      linkedin: "https://www.linkedin.com/in/sunil-raj-58b72a363",
+      delay: 600
     }
   ];
 

@@ -51,12 +51,12 @@ const Hero: React.FC = () => {
               <div className="relative z-10 flex flex-col items-center justify-center h-full w-full">
                 <img
                   src="/logo.svg"
-                  alt="FarmSphere Logo"
+                  alt="Farmspherica Logo"
                   className="w-24 h-24 md:w-32 md:h-32 drop-shadow-xl z-20 animate-fade-in mb-2"
                   style={{ pointerEvents: 'none' }}
                 />
                 <h1 className="text-[3.5rem] md:text-[5rem] lg:text-[6rem] font-extrabold font-heading bg-gradient-to-r from-forest-green via-lime-green to-sky-blue bg-clip-text text-transparent drop-shadow-2xl select-none animate-fade-in tracking-tight">
-                  FarmSphere
+                  Farmspherica
                 </h1>
               </div>
             </div>

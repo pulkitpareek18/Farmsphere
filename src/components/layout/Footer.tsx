@@ -10,20 +10,20 @@ const Footer: React.FC = () => {
           {/* Company Info */}
           <div>
             <div className="flex items-center mb-4">
-              <img src="/logo.svg" alt="Farmsphere Logo" className="h-12 w-12" />
-              <span className="ml-2 font-heading font-bold text-xl">FARMSPHERE</span>
+              <img src="/logo.svg" alt="Farmspherica Logo" className="h-12 w-12" />
+              <span className="ml-2 font-heading font-bold text-xl">Farmspherica Innovations Pvt. Ltd.</span>
             </div>
             <p className="text-cool-gray mb-4">
               Revolutionizing agriculture through innovative hydroponics technology for a sustainable future.
             </p>
             <div className="flex space-x-4">
-              <a href="https://www.instagram.com/farmsphereinnovations/" className="text-cool-gray hover:text-sky-blue transition-colors duration-200" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+              <a href="https://www.instagram.com/Farmsphericainnovations/" className="text-cool-gray hover:text-sky-blue transition-colors duration-200" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
                 <Instagram size={20} />
               </a>
-              <a href="https://www.linkedin.com/company/farmsphere-innovations/" className="text-cool-gray hover:text-sky-blue transition-colors duration-200" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/company/Farmspherica-innovations/" className="text-cool-gray hover:text-sky-blue transition-colors duration-200" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                 <Linkedin size={20} />
               </a>
-              <a href="https://www.youtube.com/@farmsphereinnovations" className="text-cool-gray hover:text-sky-blue transition-colors duration-200" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+              <a href="https://www.youtube.com/@Farmsphericainnovations" className="text-cool-gray hover:text-sky-blue transition-colors duration-200" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
                 {/* YouTube icon as SVG */}
                 <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                   <path d="M23.498 6.186a2.994 2.994 0 00-2.107-2.117C19.425 3.5 12 3.5 12 3.5s-7.425 0-9.391.569A2.994 2.994 0 00.502 6.186C0 8.153 0 12 0 12s0 3.847.502 5.814a2.994 2.994 0 002.107 2.117C4.575 20.5 12 20.5 12 20.5s7.425 0 9.391-.569a2.994 2.994 0 002.107-2.117C24 15.847 24 12 24 12s0-3.847-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
@@ -100,14 +100,14 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-lime-green mr-2" />
-                <span className="text-cool-gray">farmsphereinnvoations@gmail.com</span>
+                <span className="text-cool-gray">              farmsphericainnvoations@gmail.com</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-lime-green/30 mt-12 pt-8 text-center text-cool-gray">
-          <p>&copy; {new Date().getFullYear()} Farmsphere Innovations. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Farmspherica Innovations. All rights reserved.</p>
         </div>
       </div>
     </footer>

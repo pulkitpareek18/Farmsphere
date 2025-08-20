@@ -26,7 +26,7 @@ const About: React.FC = () => {
               Transforming Agriculture for a <span className="text-forest-green">Sustainable Future</span>
             </h2>
             <p className="text-graphite mb-4">
-              At Farmsphere Innovations, we're committed to reimagining how food is grown. Our advanced hydroponics systems deliver consistent, high-quality yields while using a fraction of the resources required by traditional farming.
+              At Farmspherica Innovations, we're committed to reimagining how food is grown. Our advanced hydroponics systems deliver consistent, high-quality yields while using a fraction of the resources required by traditional farming.
             </p>
             <p className="text-graphite mb-6">
               Founded by agricultural and technology experts, we combine scientific research with practical farming knowledge to create solutions that work for farmers of all sizes.

@@ -14,14 +14,14 @@ interface Event {
   highlights?: string[];
 }
 
-// Actual events data from Farmsphere's journey
+// Actual events data from Farmspherica's journey
 const eventsData: Event[] = [
   {
     id: 1,
     title: "R.I.S.E. Innovation Challenge 2025",
     date: "June 15, 2025",
     location: "Jalna, Maharashtra",
-    description: "Our founder, Akash Gupta, represented Farmsphere at the R.I.S.E. Innovation Challenge hosted by the Rotary Club of Jalna Central in collaboration with the MAGIC Business Incubator SME Accelerator. Out of 45+ national entries, Farmsphere was among the top 12 startups selected to pitch live on stage before a jury of industry experts, academics, and ecosystem leaders.",
+    description: "Our founder, Akash Gupta, represented Farmspherica at the R.I.S.E. Innovation Challenge hosted by the Rotary Club of Jalna Central in collaboration with the MAGIC Business Incubator SME Accelerator. Out of 45+ national entries, Farmspherica was among the top 12 startups selected to pitch live on stage before a jury of industry experts, academics, and ecosystem leaders.",
     category: "Challenge",
     images: [
         "rise-challenge-1.jpg",
@@ -69,7 +69,7 @@ const eventsData: Event[] = [
     title: "MANAGE Cohort 12 RKVY RAFTAAR",
     date: "March 3-7, 2025",
     location: "MANAGE, Hyderabad",
-    description: "Farmsphere was part of the MANAGE Cohort 12 RKVY RAFTAAR training program. A comprehensive 5-day program that began with insightful classes from business development to technology. Our founder Akash Gupta participated and interacted with like-minded startup founders, learning from illustrious personalities and industry experts in the agricultural entrepreneurship ecosystem.",
+    description: "Farmspherica was part of the MANAGE Cohort 12 RKVY RAFTAAR training program. A comprehensive 5-day program that began with insightful classes from business development to technology. Our founder Akash Gupta participated and interacted with like-minded startup founders, learning from illustrious personalities and industry experts in the agricultural entrepreneurship ecosystem.",
     category: "Program",
     images: [
       "manage-cohort-1.jpg", // Replace with actual event photos

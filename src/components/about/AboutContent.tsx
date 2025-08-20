@@ -69,7 +69,7 @@ const AboutContent: React.FC = () => {
         <AnimatedCard>
           <div className="text-center mb-16">
             <h1 className="font-heading text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              About <span className="text-forest-green">Farmsphere</span>
+              About <span className="text-forest-green">Farmspherica</span>
             </h1>
             <p className="text-graphite text-lg mb-8 max-w-3xl mx-auto">
               We're on a mission to revolutionize agriculture through innovative hydroponics technology that makes sustainable farming accessible and profitable.
@@ -89,7 +89,7 @@ const AboutContent: React.FC = () => {
             <AnimatedCard delay={200}>
               <h2 className="font-heading text-3xl font-semibold text-forest-green mb-4">What We Do</h2>
               <p className="text-graphite mb-4">
-                Farmsphere Innovations designs and manufactures advanced hydroponics systems for farmers, restaurants, educational institutions, and home growers. Our solutions range from compact countertop units to large-scale commercial operations.
+                Farmspherica Innovations designs and manufactures advanced hydroponics systems for farmers, restaurants, educational institutions, and home growers. Our solutions range from compact countertop units to large-scale commercial operations.
               </p>
               <p className="text-graphite mb-4">
                 Our systems integrate cutting-edge technology to optimize growing conditions, nutrient delivery, and resource usage, resulting in higher yields, better quality produce, and reduced environmental impact.
@@ -133,10 +133,10 @@ const AboutContent: React.FC = () => {
               "I want to be part of a transformation where farming is not just a means of survival, but a source of pride."
             </p>
             <p className="text-graphite text-lg mb-4 text-center">
-              The words of Dr. A.P.J. Abdul Kalam taught me to dream - and Farmsphere was born from that dream.
+              The words of Dr. A.P.J. Abdul Kalam taught me to dream - and Farmspherica was born from that dream.
             </p>
             <p className="text-graphite text-lg mb-4 text-center">
-              I truly believe that real progress is incomplete until we improve the lives of our farmers. Every plant we grow is not just food, but a seed of hope. Every step at Farmsphere is dedicated to turning that hope into reality - building a future where both farming and wellness are treated with the respect they deserve.
+              I truly believe that real progress is incomplete until we improve the lives of our farmers. Every plant we grow is not just food, but a seed of hope. Every step at Farmspherica is dedicated to turning that hope into reality - building a future where both farming and wellness are treated with the respect they deserve.
             </p>
             <p className="text-charcoal font-semibold text-right mt-6">— Akash Gupta, Director</p>
           </div>
