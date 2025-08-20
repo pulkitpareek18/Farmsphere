@@ -11,7 +11,7 @@ const Privacy: React.FC = () => {
             <p className="text-lg mb-6">Last Updated: May 15, 2025</p>
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">1. Introduction</h2>
-            <p>At Farmspherica Innovations ("we," "our," or "us"), we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.</p>
+            <p>At Farmspherica Innovations Pvt. Ltd. ("we," "our," or "us"), we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.</p>
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">2. Information We Collect</h2>
             <p>We may collect personal information that you voluntarily provide to us when you:</p>
@@ -69,11 +69,11 @@ const Privacy: React.FC = () => {
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">8. Contact Us</h2>
             <p>For any questions or concerns regarding this Privacy Policy, you may contact us at:</p>
-            <p><strong>Farmspherica Innovations</strong><br />
+            <p><strong>Farmspherica Innovations Pvt. Ltd.</strong><br />
             B K Birla Insititute of Engineering & Technology, Pilani<br />
             333031, Jhunjhunu Rajasthan, India<br />
             Phone: +91 7459805391<br />
-            Email:               farmsphericainnvoations@gmail.com</p>
+            Email: farmsphericainnovations@gmail.com</p>
           </div>
         </div>
       </div>

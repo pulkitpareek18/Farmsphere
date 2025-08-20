@@ -11,10 +11,10 @@ const Terms: React.FC = () => {
             <p className="text-lg mb-6">Last Updated: May 15, 2025</p>
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">1. Acceptance of Terms</h2>
-            <p>By accessing or using Farmspherica Innovations' website, products, or services, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.</p>
+            <p>By accessing or using Farmspherica Innovations Pvt. Ltd.'s website, products, or services, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.</p>
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">2. Description of Services</h2>
-            <p>Farmspherica Innovations provides hydroponics technology, products, and related services for sustainable farming. Our services may include:</p>
+            <p>Farmspherica Innovations Pvt. Ltd. provides hydroponics technology, products, and related services for sustainable farming. Our services may include:</p>
             <ul className="list-disc ml-6 mb-4">
               <li>Sale of hydroponics systems and equipment</li>
               <li>Installation and maintenance services</li>
@@ -51,21 +51,21 @@ const Terms: React.FC = () => {
             <p>Our products come with a limited warranty as specified in our product documentation. For returns and warranty claims, please contact our customer service department.</p>
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">7. Intellectual Property</h2>
-            <p>All content on our website, including text, graphics, logos, images, and software, is the property of Farmspherica Innovations and protected by intellectual property laws. You may not use, reproduce, or distribute our content without our permission.</p>
+            <p>All content on our website, including text, graphics, logos, images, and software, is the property of Farmspherica Innovations Pvt. Ltd. and protected by intellectual property laws. You may not use, reproduce, or distribute our content without our permission.</p>
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">8. Limitation of Liability</h2>
-            <p>To the maximum extent permitted by law, Farmspherica Innovations shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our services or products.</p>
+            <p>To the maximum extent permitted by law, Farmspherica Innovations Pvt. Ltd. shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our services or products.</p>
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">9. Changes to Terms</h2>
             <p>We may update these Terms of Service from time to time. We will notify you of any changes by posting the new terms on this page and updating the "Last Updated" date.</p>
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">10. Contact Us</h2>
             <p>For any questions or concerns regarding these Terms of Service, you may contact us at:</p>
-            <p><strong>Farmspherica Innovations</strong><br />
+            <p><strong>Farmspherica Innovations Pvt. Ltd.</strong><br />
             B K Birla Insititute of Engineering & Technology, Pilani<br />
             333031, Jhunjhunu Rajasthan, India<br />
             Phone: +91 7459805391<br />
-            Email:               farmsphericainnvoations@gmail.com</p>
+            Email: farmsphericainnovations@gmail.com</p>
           </div>
         </div>
       </div>

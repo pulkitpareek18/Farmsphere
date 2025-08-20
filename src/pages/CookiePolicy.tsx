@@ -11,7 +11,7 @@ const CookiePolicy: React.FC = () => {
             <p className="text-lg mb-6">Last Updated: May 15, 2025</p>
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">1. Introduction</h2>
-            <p>This Cookie Policy explains how Farmspherica Innovations ("we," "our," or "us") uses cookies and similar technologies on our website to enhance your browsing experience.</p>
+            <p>This Cookie Policy explains how Farmspherica Innovations Pvt. Ltd. ("we," "our," or "us") uses cookies and similar technologies on our website to enhance your browsing experience.</p>
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">2. What Are Cookies?</h2>
             <p>Cookies are small text files that are stored on your device (computer, tablet, or mobile) when you visit websites. They are widely used to make websites work more efficiently and provide information to the website owners.</p>
@@ -52,11 +52,11 @@ const CookiePolicy: React.FC = () => {
             
             <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4 mt-8">8. Contact Us</h2>
             <p>For any questions or concerns regarding this Cookie Policy, you may contact us at:</p>
-            <p><strong>Farmspherica Innovations</strong><br />
+            <p><strong>Farmspherica Innovations Pvt. Ltd.</strong><br />
             B K Birla Insititute of Engineering & Technology, Pilani<br />
             333031, Jhunjhunu Rajasthan, India<br />
             Phone: +91 7459805391<br />
-            Email:               farmsphericainnvoations@gmail.com</p>
+            Email: farmsphericainnovations@gmail.com</p>
           </div>
         </div>
       </div>

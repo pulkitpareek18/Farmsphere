@@ -31,7 +31,7 @@ const Newsletter: React.FC = () => {
       <div className="container mx-auto px-4 lg:px-8">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="font-heading text-3xl md:text-4xl font-bold text-white mb-4">
-            Stay Updated with Farmspherica
+            Stay Updated with Farmspherica Innovations
           </h2>
           <p className="text-white/80 mb-8">
             Subscribe to our newsletter for the latest hydroponics innovations, farming tips, and company updates.

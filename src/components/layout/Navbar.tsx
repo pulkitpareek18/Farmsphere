@@ -42,7 +42,10 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center">
           <Link to="/" className="flex items-center" onClick={closeMenu} aria-label="Home">
             <img src="/logo.svg" alt="Farmspherica Logo" className="h-10 w-10 md:h-12 md:w-12 mr-2 drop-shadow-xl" />
-            <span className="ml-2 font-heading font-bold text-xl text-charcoal">Farmspherica</span>
+            <div className="ml-2">
+              <span className="font-heading font-bold text-xl text-charcoal block">Farmspherica</span>
+              <span className="font-heading text-xs text-forest-green font-medium hidden md:block">Innovations Pvt. Ltd.</span>
+            </div>
           </Link>
 
           {/* Desktop Navigation */}

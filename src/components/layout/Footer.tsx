@@ -100,14 +100,14 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-lime-green mr-2" />
-                <span className="text-cool-gray">              farmsphericainnvoations@gmail.com</span>
+                <span className="text-cool-gray">farmsphericainnovations@gmail.com</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-lime-green/30 mt-12 pt-8 text-center text-cool-gray">
-          <p>&copy; {new Date().getFullYear()} Farmspherica Innovations. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Farmspherica Innovations Pvt. Ltd. All rights reserved.</p>
         </div>
       </div>
     </footer>

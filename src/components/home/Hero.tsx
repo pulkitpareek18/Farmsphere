@@ -58,6 +58,9 @@ const Hero: React.FC = () => {
                 <h1 className="text-[3.5rem] md:text-[5rem] lg:text-[6rem] font-extrabold font-heading bg-gradient-to-r from-forest-green via-lime-green to-sky-blue bg-clip-text text-transparent drop-shadow-2xl select-none animate-fade-in tracking-tight">
                   Farmspherica
                 </h1>
+                <p className="text-lg md:text-xl font-semibold text-forest-green opacity-80 animate-fade-in select-none">
+                  Innovations Pvt. Ltd.
+                </p>
               </div>
             </div>
           </div>

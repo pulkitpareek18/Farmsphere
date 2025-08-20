@@ -27,7 +27,7 @@ const StoryContent: React.FC = () => {
             <AnimatedCard delay={200}>
               <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4">The Beginning</h2>
               <p className="text-graphite mb-4">
-                Farmspherica was founded by Akash Gupta in 2024. As an engineer, Akash was inspired to address the challenges facing modern agriculture and envisioned a future where technology and sustainability go hand in hand.
+                Farmspherica Innovations Pvt. Ltd. was founded by Akash Gupta in 2024. As an engineer, Akash was inspired to address the challenges facing modern agriculture and envisioned a future where technology and sustainability go hand in hand.
               </p>
               <p className="text-graphite">
                 Driven by a passion for innovation and a commitment to empowering farmers, he set out to create solutions that make farming more efficient, sustainable, and rewarding for everyone involved.
@@ -48,7 +48,7 @@ const StoryContent: React.FC = () => {
             <AnimatedCard delay={400} className="order-2 md:order-1">
               <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4">Evolution & Growth</h2>
               <p className="text-graphite mb-4">
-                Since its inception, Farmspherica has rapidly evolved from a single visionary's dream into a thriving community of innovators and growers. Our journey has been marked by continuous learning, hands-on experimentation, and a relentless pursuit of better solutions for farmers everywhere.
+                Since its inception, Farmspherica Innovations has rapidly evolved from a single visionary's dream into a thriving community of innovators and growers. Our journey has been marked by continuous learning, hands-on experimentation, and a relentless pursuit of better solutions for farmers everywhere.
               </p>
               <p className="text-graphite">
                 By collaborating with experts and listening to the needs of real farmers, we have developed systems that are not only technologically advanced but also practical and accessible. Our growth is a testament to the power of shared vision and collective effort.
@@ -67,7 +67,7 @@ const StoryContent: React.FC = () => {
             <div className="text-center mb-16">
               <h2 className="font-heading text-2xl font-semibold text-forest-green mb-4">Where We Are Today</h2>
               <p className="text-graphite mb-4">
-                Today, Farmspherica stands as a beacon of innovation in sustainable agriculture. Our dedicated team works tirelessly to push the boundaries of what is possible in hydroponics and smart farming, always with the goal of making a positive impact on farmers' lives and the environment.
+                Today, Farmspherica Innovations stands as a beacon of innovation in sustainable agriculture. Our dedicated team works tirelessly to push the boundaries of what is possible in hydroponics and smart farming, always with the goal of making a positive impact on farmers' lives and the environment.
               </p>
               <p className="text-graphite">
                 With a growing network of partners and supporters, we continue to expand our reach, bringing modern farming solutions to communities across the globe and inspiring the next generation of agricultural leaders.

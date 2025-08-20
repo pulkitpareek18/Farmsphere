@@ -89,7 +89,7 @@ const AboutContent: React.FC = () => {
             <AnimatedCard delay={200}>
               <h2 className="font-heading text-3xl font-semibold text-forest-green mb-4">What We Do</h2>
               <p className="text-graphite mb-4">
-                Farmspherica Innovations designs and manufactures advanced hydroponics systems for farmers, restaurants, educational institutions, and home growers. Our solutions range from compact countertop units to large-scale commercial operations.
+                Farmspherica Innovations Pvt. Ltd. designs and manufactures advanced hydroponics systems for farmers, restaurants, educational institutions, and home growers. Our solutions range from compact countertop units to large-scale commercial operations.
               </p>
               <p className="text-graphite mb-4">
                 Our systems integrate cutting-edge technology to optimize growing conditions, nutrient delivery, and resource usage, resulting in higher yields, better quality produce, and reduced environmental impact.
