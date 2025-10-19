@@ -104,21 +104,46 @@ const TeamContent: React.FC = () => {
       delay: 500
     },
     {
-      name: "Pranav Singh",
-      role: "Video Editor & Animations",
-      image: "/pranav.jpg",
-      bio: "Creative video editor specializing in animations and visual storytelling.",
-      linkedin: "https://www.linkedin.com/in/pranav-singh-350974301/",
+      name: "Abhishek Kataria",
+      role: "Project Executive",
+      image: "/abhishekkataria.jpg",
+      bio: "Project executive focused on delivering innovative hydroponics solutions and managing cross-functional teams.",
+      linkedin: "https://www.linkedin.com/in/abhishek-kataria-1b82992b6/",
       delay: 600
+    }, 
+    {
+      name: "Livia Colaco",
+      role: "Research Executive",
+      image: "/liviacolaco.jpg",
+      bio: "Research executive focused on delivering innovative hydroponics solutions and managing cross-functional teams.",
+      linkedin: "https://www.linkedin.com/in/livia-colaco-6b8862301/",
+      delay: 600
+    }, 
+    {
+      name: "Gourav Saini",
+      role: "Social Media Head",
+      image: "/gouravsaini.jpg",
+      bio: "Social media head focused on enhancing our online presence and engagement.",
+      linkedin: "https://www.linkedin.com/in/gourav-saini/",
+      delay: 700
+    }, 
+    {
+      name: "Priyanka Sharma",
+      role: "Research Analyst",
+      image: "/priyankasharma.jpg",
+      bio: "Research analyst focused on data-driven insights and sustainable agricultural practices.",
+      linkedin: "#",
+      delay: 700
     },
-     {
-      name: "Sunil Rajpurohit",
-      role: "Content Creator",
-      image: "/sunil.jpeg",
-      bio: "Creative content creator specializing in visual storytelling and digital marketing.",
-      linkedin: "https://www.linkedin.com/in/sunil-raj-58b72a363",
-      delay: 600
-    }
+    {
+      name: "Navneet Kumar",
+      role: "Finance Analyst",
+      image: "/navneetkumar.jpg",
+      bio: "Finance analyst focused on budgeting, forecasting, and financial planning.",
+      linkedin: "https://www.linkedin.com/in/navneet-kumar-030138302/",
+      delay: 700
+    },
+    
   ];
 
   return (
